@@ -23,3 +23,7 @@ class HexCipher(Cipher):
 hex_cipher = HexCipher(input_tezt)
 
 print(hex_cipher.encrypt())
+
+# مثال على الاستخدام
+# إذا أدخل المستخدم "Hello"
+
