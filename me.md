@@ -11,8 +11,6 @@
 | 🎭 **الكنية** | القيصر اش |
 | 💼 **التخصص** | Penetration Tester |
 
-**📧 Email:** momoh70070@gmail.com  
-**💬 Telegram:** [@CaesarH](https://t.me/+a0-wwwtVaD7rMA5Njg0)
 
 </div>
 
